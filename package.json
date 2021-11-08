@@ -5,6 +5,7 @@
     "type": "git",
     "url": "git+https://github.com/Dapzer/image-viewer.git"
   },
+  "description": "Simple image viewer",
   "version": "1.0.0",
   "private": true,
   "keywords": [
