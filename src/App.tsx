@@ -1,6 +1,5 @@
 import React from 'react';
 import './styles/App.css';
-import {ImageViewer} from "image-viewer-dap"
 import img1 from "./images/1.jpg"
 import img2 from "./images/2.jpg"
 import img3 from "./images/3.jpg"
@@ -13,7 +12,7 @@ import img9 from "./images/9.jpg"
 import img10 from "./images/10.jpg"
 import img11 from "./images/11.jpg"
 import img12 from "./images/12.jpg"
-
+import { ImageViewer } from "image-viewer-dv"
 
 
 function App() {
