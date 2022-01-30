@@ -12,11 +12,11 @@ import img9 from "./images/9.jpg"
 import img10 from "./images/10.jpg"
 import img11 from "./images/11.jpg"
 import img12 from "./images/12.jpg"
-import { ImageViewer } from "image-viewer-dv"
+import { ImageViewer } from "react-image-viewer-dv"
 
 
 function App() {
-  document.title = 'Simple Image Viewer'
+  document.title = 'React Image Viewer'
 
   const bulkImages = [
     img1,
@@ -37,10 +37,10 @@ function App() {
     <div className="main">
       <div className="container">
         <div className="header">
-          <h1>Simple Image Viewer</h1>
+          <h1>React Image Viewer</h1>
           <nav>
-            <a href="https://github.com/Dapzer/image-viewer">GitHub</a>
-            <a href="https://www.npmjs.com/package/image-viewer-dv">NpmJs</a>
+            <a href="https://github.com/Dapzer/react-image-viewer" target="_blank">GitHub</a>
+            <a href="https://www.npmjs.com/package/react-image-viewer-dv" target="_blank">NpmJs</a>
           </nav>
         </div>
 
