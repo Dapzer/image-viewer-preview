@@ -3,9 +3,9 @@
   "author": "Danila Voronkov",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dapzer/image-viewer.git"
+    "url": "git+https://github.com/Dapzer/react-image-viewer"
   },
-  "description": "Simple image viewer",
+  "description": "React image viewer",
   "version": "1.0.0",
   "private": true,
   "keywords": [
